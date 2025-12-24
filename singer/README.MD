@@ -1,5 +1,7 @@
 Singer (Ashita v4, NO HUD)
 
+![Addon loaded screenshot](screenshot.png)
+
 -- Author: Aragan  
 
 Install:
