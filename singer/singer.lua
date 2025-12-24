@@ -3,7 +3,7 @@ addon.name     = 'singer'
 addon.author   = 'Aragan'
 addon.version  = '1.0 , transformers coming'
 addon.desc     = 'Singer (No HUD) for Ashita v4'
-addon.link     = ''
+addon.link     = 'https://github.com/aragan/Ashita-addons/tree/main/singer'
 
 require('common')
 
